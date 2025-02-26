@@ -1,1 +1,9 @@
-pickle
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+rich
+pygments
+markdown-it-py
+mdurl
